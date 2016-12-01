@@ -2,3 +2,6 @@ apples
 oranges
 kiwis
 carrots
+bananas
+more apples
+even more apples!
